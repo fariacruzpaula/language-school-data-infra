@@ -34,5 +34,6 @@ O projeto contempla scripts para situações reais de mercado: <br>
 	• Atualização de Preços: Uso de UPDATE com cláusula WHERE específica (ex: reajuste do valor do curso) <br>
 	• Gestão de Churn/Reembolso: Exclusão de registros de vendas canceladas via DELETE para manter o faturamento real atualizado. 
 
-
+### 5 - Créditos
+Este projeto foi desenvolvido como parte do desafio prático de um curso Intensivo de SQL da Hashtag Treinamentos. 
 	
