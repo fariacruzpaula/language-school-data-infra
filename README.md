@@ -1,3 +1,5 @@
+![Capa do Projeto](lisa.jpg)
+
 ## Infraestrutura de Dados de Escola de Idioma
 
 ### 1- Contexto de Negócio
@@ -33,6 +35,7 @@ O projeto contempla scripts para situações reais de mercado: <br>
 	• Carga Inicial: Inserção de dados via INSERT INTO para popular o ecossistema; <br>
 	• Atualização de Preços: Uso de UPDATE com cláusula WHERE específica (ex: reajuste do valor do curso) <br>
 	• Gestão de Churn/Reembolso: Exclusão de registros de vendas canceladas via DELETE para manter o faturamento real atualizado. 
+![lisa](https://github.com/user-attachments/assets/80272d7f-72f7-4e03-9bc4-c8839aaeb254)
 
 ### 5 - Créditos
 Este projeto foi desenvolvido como parte do desafio prático de um curso Intensivo de SQL da Hashtag Treinamentos. 
