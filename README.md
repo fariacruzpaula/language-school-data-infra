@@ -4,8 +4,8 @@
 Este projeto simula a estruturação do ecossistema de dados para a Ẹ̀kọ́ Idiomas, uma nova escola focada no ensino de Inglês, Espanhol e Francês. O desafio central foi transformar a necessidade de controle operacional em uma infraestrutura de banco de dados relacional que suporte o crescimento da empresa.
 
 A estratégia de dados foi dividida em dois pilares: <br>
-	• Integridade Operacional: Garantir que alunos e cursos estejam devidamente vinculados às transações; <br>
-	• Flexibilidade Comercial: Permitir atualizações de preços e gestão de cancelamentos/reembolsos sem perda de histórico.
+	• Integridade Operacional: garantir que alunos e cursos estejam devidamente vinculados às transações; <br>
+	• Flexibilidade Comercial: permitir atualizações de preços e gestão de cancelamentos/reembolsos sem perda de histórico.
 
 ### 2- Implementação Técnica
 A estrutura foi normalizada em três tabelas principais para evitar redundância e garantir a performance das consultas: <br>
